@@ -1,4 +1,4 @@
-# Fuel Rewards® Mobile App API Discovery (Assessment Findings)
+# Fuel Rewards® Mobile App API Discovery
 
 ## Summary
 
