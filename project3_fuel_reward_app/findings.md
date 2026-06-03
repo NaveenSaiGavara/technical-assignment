@@ -98,8 +98,6 @@ However, the application requires account authentication before proceeding furth
 
 ## Findings
 
-The issue appears to be environment-specific and reproducible only on the emulator.
-
 Potential causes include:
 
 1. Emulator detection.
